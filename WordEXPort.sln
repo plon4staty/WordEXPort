@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordEXPort", "WordEXPort\WordEXPort.csproj", "{CED0A893-8D3B-48BB-9362-CEE0A6E41968}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CED0A893-8D3B-48BB-9362-CEE0A6E41968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CED0A893-8D3B-48BB-9362-CEE0A6E41968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CED0A893-8D3B-48BB-9362-CEE0A6E41968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CED0A893-8D3B-48BB-9362-CEE0A6E41968}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {085E5FE7-FD9B-4F70-B281-9C80D7FA5261}
+	EndGlobalSection
+EndGlobal
